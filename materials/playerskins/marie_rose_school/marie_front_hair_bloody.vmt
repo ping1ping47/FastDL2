@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/marie_rose_school/marie_front_hair_bloody"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$nodecal" 1
+	"$bumpmap" "playerskins/marie_rose_school/marie_front_hair_nrm"
+   	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" ".05"
+	"$phongexponent" "15"
+	"$phongfresnelranges" "[.1 .1 .1]"
+    "$phongtint" "[120 70 40]"
+}

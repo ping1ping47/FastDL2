@@ -1,0 +1,27 @@
+VertexLitGeneric
+{
+	$basetexture "playerskins/maya_tactical/player/Body"
+	//$bumpmap 				"playerskins/maya_tactical/player/Normal"
+	$lightwarptexture		"playerskins/maya_tactical/lightwarp/basewarp"
+	
+	$phong 1
+	$phongboost	0.02			
+	//$PhongWarpTexture   	"Matchacheese/VRC/Lime/Twins/SPE/Lime_Body_OutlineMask"
+	
+	//以下两类按需启用///////////////////////////
+	//皮肤毛发情况使用
+	$phongalbedotint 1
+	//$phongexponenttexture 	"Matchacheese/VRC/Lime/Twins/lightwarp/phong_exp"
+
+
+	$phongfresnelranges			1 .1 .1
+
+	$nodecal 				1
+	$nocull					1
+	$halflambert			1
+
+
+	$rimlight               1
+	$rimlightexponent       3
+	$rimlightboost          4
+}

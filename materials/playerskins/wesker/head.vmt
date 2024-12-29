@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/wesker/head"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"5"
+	"$phongboost"		"6"
+	"$phongfresnelranges"	"[.1 .25 .5]"
+}

@@ -1,0 +1,20 @@
+VertexlitGeneric
+{
+	"$basetexture" "basetexture"
+	"$bumpmap" "dev/dev_normal"
+	"$lightwarptexture" "playerskins/maya_school/jichu/shader"	
+    "$nocull" 1        
+	"$nodecal" 1       
+	"$phong" "1"
+	"$phongalbedotint" "1"                
+	"$halflambert" "1"
+	"$phongboost"	".02"                 
+	"$PhongExponent" "1.0"                
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$selfillum" "1"	
+	
+	//$envmap	"env_cubemap"
+	//$envmaptint	"[.02 .02 .02]"
+	//$normalmapalphaenvmapmask	"1"
+	//$envmapfresnel	"1"
+}

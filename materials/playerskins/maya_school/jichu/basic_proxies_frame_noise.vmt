@@ -1,0 +1,58 @@
+VertexlitGeneric
+{
+	"$basetexture" "basetexture"
+	"$bumpmap" "dev/dev_normal"
+	"$lightwarptexture" "playerskins/maya_school/jichu/shader"	
+    "$nocull" 1        
+	"$nodecal" 1       
+	"$phong" "1"
+	"$phongalbedotint" "1"                
+	"$halflambert" "1"
+	"$phongboost"	".02"                 
+	"$PhongExponent" "1.0"                
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$selfillum" "1"
+	
+	// 预设实体随机材质代理
+	
+	// 用于一次性控制帧数的变量
+	
+	$frameScale 0.02 // 可变
+	$frameNumber 0 // 可变
+	
+	$randNumberA 0
+	
+	$noiseres 1000 
+
+	$fh 500
+	
+	"Proxies"
+	{
+		// 用于一次性控制帧数 不支持局内重新生成实体以重随机 
+		
+		 "UniformNoise"
+		 {
+			 "minVal" "0"
+			 "maxVal" "$frameScale"
+			 "resultVar" "$randNumberA"
+		 }
+		"LessOrEqual"
+		 {
+			 "LessEqualVar" "$noiseres"
+			 "greaterVar" "$randNumberA"
+			 "srcVar1" "$noiseres"
+			 "srcVar2" "$fh" 
+			 "resultVar" "$noiseres" 
+		 }
+		
+		// 传来变动的 frameNumber 的同时 frameScale 不变 表示改变固定帧数
+		// 传来变动的 frameScale 的同时 frameNumber 不变 表示改变随机帧数
+		
+		"Add"
+		{
+			"srcVar1" "$noiseres"
+			"srcVar2" "$frameNumber"
+			"resultVar" "$frame"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+VertexlitGeneric
+{
+ $aa 0
+ "Proxies"
+{
+	Equals
+	{
+		srcVar1		"$aa"
+		resultVar	"$alpha"
+	}
+}
+}

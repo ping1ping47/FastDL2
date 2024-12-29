@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins/shirasu_azusa/halo"
+	"$lightwarpTexture" "playerskins/shirasu_azusa/basewarp"
+	"$bumpmap" "playerskins/shirasu_azusa/normal"
+	"$selfillum" "1"
+	"$nocull" "1"
+}

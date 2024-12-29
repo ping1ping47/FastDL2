@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "playerskins/neo/belt"
+	"$bumpmap" "playerskins/neo/belt_normal"
+	"$halflambert" "1"
+	
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "128"
+	"$phongfresnelranges"	"[0.2 2 10]"
+}

@@ -1,0 +1,16 @@
+patch 
+{
+ include "materials/playerskins/momoi_1/vertexlit_anime_hi_l4d2.vmt"
+ insert {
+   $basetexture "playerskins/momoi_1/Momoi_Original_Hair.vtf"
+   $emissiveblendbasetexture "playerskins/momoi_1/Momoi_Original_Hair.vtf"
+   "$phongboost"	"0.3"
+   "$phongexponent" "10"
+   "$phongalbedotint" "0"
+   $basemapluminancephongmask "0"
+ }
+ }
+
+
+
+

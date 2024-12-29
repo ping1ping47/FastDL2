@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "playerskins/lumine/face"
+	"$no_draw" "1"
+}

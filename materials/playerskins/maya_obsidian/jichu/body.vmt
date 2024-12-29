@@ -1,0 +1,12 @@
+patch
+{
+	include	"materials/playerskins/maya_obsidian/jichu/Body_phong.vmt"
+	insert
+	{
+		
+	}
+	replace
+	{
+		"$basetexture" "playerskins/maya_obsidian/jichu/Body"
+	}
+}

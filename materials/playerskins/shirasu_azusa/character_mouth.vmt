@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins/shirasu_azusa/mouth"
+	"$lightwarpTexture" "playerskins/shirasu_azusa/basewarp"
+	"$bumpmap" "playerskins/shirasu_azusa/normal"
+	"$alphatest" "1"
+}

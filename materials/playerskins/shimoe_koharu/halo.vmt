@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\shimoe_koharu\halo"
+	"$lightwarpTexture" "playerskins\shimoe_koharu\basewarp"
+	"$nocull" "1"
+	"$selfillum" "1"
+}

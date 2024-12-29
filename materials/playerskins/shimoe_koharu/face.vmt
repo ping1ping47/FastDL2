@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\shimoe_koharu\face"
+	"$lightwarpTexture" "playerskins\shimoe_koharu\basewarp"
+	"$bumpmap" "playerskins\shimoe_koharu\normal"
+}

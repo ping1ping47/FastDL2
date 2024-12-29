@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\kurodate_haruna_1\Hair"
+	"$lightwarpTexture" "playerskins\kurodate_haruna_1\basewarp"
+	"$bumpmap" "playerskins\kurodate_haruna_1\normal"
+}

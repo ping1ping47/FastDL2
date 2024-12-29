@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/lappland_alter/_12"
+	"$lightwarptexture" "playerskins/lappland_alter/_13_Toon"
+	"$alphatest" 1
+	"$nocull" "1"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.1 1 1]"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "2"
+}

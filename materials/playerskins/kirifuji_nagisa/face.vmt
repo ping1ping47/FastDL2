@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\kirifuji_nagisa\Face"
+	"$lightwarpTexture" "playerskins\kirifuji_nagisa\basewarp"
+	"$bumpmap" "playerskins\kirifuji_nagisa\normal"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/leon_re4/leon_tex"
+	"$nocull" 1
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/marie_rose_school/mar_face_base"
+	"$bumpmap" "playerskins/marie_rose_school/mar_face_nrm_VLH2_PP1"
+   	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "3"
+	"$phongexponent" "8"
+	"$phongfresnelranges" "[.1 1 .1]"
+
+	"$lightwarptexture" "playerskins/marie_rose_school/skin_shader"
+}

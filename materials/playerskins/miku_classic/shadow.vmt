@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "playerskins\miku_classic\face"
+	"$bumpmap" "playerskins\miku_classic\normal"
+
+	"$lightwarptexture" "playerskins\miku_classic\facewarp"
+	"$translucent" "1"
+}

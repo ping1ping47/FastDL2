@@ -1,0 +1,14 @@
+patch
+{
+	include "materials\playerskins\lappland_saluzzo\shader.vmt"
+	insert
+	{
+		"$basetexture" "playerskins\lappland_saluzzo\emoji"
+	}
+	replace
+	{
+		"$lightwarptexture" "playerskins\lappland_saluzzo\shader\eyewarp"
+		"$phongboost"	"10"
+		"$phongfresnelranges"	"[0 0 1]"
+	}
+}

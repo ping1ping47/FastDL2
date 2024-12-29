@@ -1,0 +1,13 @@
+patch
+{
+	include	"materials/playerskins/maya_school/fujian/random_School_uniform.vmt"
+	insert
+	{
+		
+	}
+	replace
+	{
+		"$basetexture" "playerskins/maya_school/fujian/top"
+		"$bumpmap" "playerskins/maya_school/fujian/top_Normal"
+	}
+}

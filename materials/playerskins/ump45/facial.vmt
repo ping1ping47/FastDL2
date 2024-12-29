@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "playerskins/ump45/facial"
+"$lightwarptexture" "playerskins/ump45/basewarp"
+         "$bumpmap" "playerskins/ump45/normal"
+        "$nocull" "1"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$halflambert" "1"
+$alphatest 1
+$alphatestreference 0.5
+$allowalphatocoverage 1
+"translucent" "1"
+}

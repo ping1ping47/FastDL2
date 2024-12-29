@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\misono_mika\hair_outline"
+	"$lightwarpTexture" "playerskins\misono_mika\basewarp"
+}

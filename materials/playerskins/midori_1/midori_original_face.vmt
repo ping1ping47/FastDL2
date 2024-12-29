@@ -1,0 +1,14 @@
+patch 
+{
+ include "materials/playerskins/midori_1/vertexlit_anime_hi_l4d2.vmt"
+ insert {
+   $basetexture "playerskins/midori_1/Midori_Original_Face.vtf"
+   $emissiveblendbasetexture "playerskins/midori_1/Midori_Original_Face.vtf"
+	"$nodecal" 1       
+  }
+}
+
+
+
+
+

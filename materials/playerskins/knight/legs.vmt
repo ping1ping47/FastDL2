@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/knight/Legs"
+	"$halflambert" 1
+	"$bumpmap" "playerskins/knight/Legs_Normals"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "3"
+	$phongfresnelranges		"[ .1 5 1]"
+}

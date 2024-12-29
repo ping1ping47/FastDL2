@@ -1,0 +1,15 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+	{
+	$basetexture "playerskins/joshuagraham/helmet_d"
+                $bumpmap "playerskins/joshuagraham/helmet_ns"
+	$color2 "[0.75 0.75 0.75]"
+
+$phong 1
+$phongboost "2.5"
+$phongexponent 5
+$phongtint "[.85 .85 1]"
+	}
+}

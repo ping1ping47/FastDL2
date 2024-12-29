@@ -1,0 +1,41 @@
+VertexLitGeneric
+{
+	$basetexture "playerskins/maya_tactical/player/Hair"
+	//$bumpmap 					"playerskins/maya_tactical/player/Normal"
+	$lightwarptexture			"playerskins/maya_tactical/lightwarp/basewarp"
+
+	$phong 1
+	$phongboost	0.04			//调整反射强度
+
+	//皮肤毛发
+	$phongalbedotint 1
+	//$phongexponenttexture     	"Matchacheese/VRC/Lime/lightwarp/phong_exp"
+
+	$phongfresnelranges			1 .1 .1
+
+	$nodecal 				1
+	$nocull					1
+	$halflambert			1
+
+	//修复僵尸变色
+	//$allowdiffusemodulation 0
+
+	$rimlight               1
+	$rimlightexponent       3
+	$rimlightboost          4
+
+$detail "models\nmr_viewmodels\nmrih_shared\nmrih_blood_shared"
+$detailblendmode 2
+$detailblendfactor 1
+$detailscale 3.0
+$detailrotation 0.0
+
+	"Proxies"
+	{
+		"BloodyTexture"
+		{
+			"detailcount"	"2"
+			"source"		"player"
+		}
+	}
+}

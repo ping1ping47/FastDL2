@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/simon_henriksson/nmr_custom_survivors/COF_Simon/hairbits_sharp2"
+	"$bumpmap" "playerskins/simon_henriksson/nmr_custom_survivors/COF_Simon/flat"
+	"$nocull" 1
+	"$alphatest" 1
+        "$phong" 1
+}

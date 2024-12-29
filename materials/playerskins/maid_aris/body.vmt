@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\maid_aris\Body"
+	"$lightwarpTexture" "playerskins\maid_aris\basewarp"
+	"$bumpmap" "playerskins\maid_aris\normal"
+}

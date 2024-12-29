@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/marie_rose_school/L_3_4"
+	"$bumpmap" "playerskins/marie_rose_school/L_3_4n"
+   	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.1 .1 .1]"
+}

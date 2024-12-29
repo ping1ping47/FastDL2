@@ -1,0 +1,13 @@
+patch 
+{
+ include "materials/playerskins/momoi_1/vertexlit_anime_hi_l4d2.vmt"
+ insert {
+   $basetexture "playerskins/momoi_1/Momoi_Original_Hands.vtf"
+   $emissiveblendbasetexture "playerskins/momoi_1/Momoi_Original_Hands.vtf"
+	"$nodecal" 1       
+  }
+}
+
+
+
+

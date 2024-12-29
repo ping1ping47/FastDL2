@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$baseTexture" "playerskins\midori_1\Mouth.vtf"
+	"$bumpmap" "playerskins\midori_1\nmap"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.1 1 1]"
+	"$lightwarptexture" "playerskins\midori_1\toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$rimlightboost"          "2"
+	$translucent 1
+	"$nodecal" 1
+
+	
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"playerskins\kirito\repulser"
+	"$halflambert"	"1"
+	"$alphatest"	"1"
+
+}

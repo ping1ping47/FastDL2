@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins/shirasu_azusa/body"
+	"$lightwarpTexture" "playerskins/shirasu_azusa/basewarp"
+	"$bumpmap" "playerskins/shirasu_azusa/normal"
+}

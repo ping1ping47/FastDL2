@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\kurodate_haruna_1\Halo"
+	"$lightwarpTexture" "playerskins\kurodate_haruna_1\basewarp"
+	"$bumpmap" "playerskins\kurodate_haruna_1\normal"
+	"$selfillum" "1"
+	"$nocull" "1"
+}

@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+	// FACE
+	"$basetexture" 		"playerskins/marie_rose_summer/marie_matuge_base"
+	"$nodecal" "1"
+
+}

@@ -1,0 +1,18 @@
+patch
+{
+	include "materials\playerskins\lappland_refined_horrormare\shader.vmt"
+	insert
+	{
+		"$basetexture" "playerskins\lappland_refined_horrormare\metal"
+		
+		$envmap env_cubemap
+		$envmapfresnel 1
+		$envmapFresnelMinMaxExp "[0 0 0]"
+		$envmaptint "[10 10 10]"
+	}
+	replace
+	{
+		"$phongboost"   			"25"
+		$phong 0
+	}
+}

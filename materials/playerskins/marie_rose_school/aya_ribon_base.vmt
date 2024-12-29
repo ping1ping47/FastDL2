@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/marie_rose_school/aya_ribon_base"
+	"$nodecal" 1
+	"$bumpmap" "playerskins/marie_rose_school/aya_bandana_nrm_N"
+   	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "3"
+	"$phongexponent" "10"
+	"$phongfresnelranges" "[.1 .1 .1]"
+}

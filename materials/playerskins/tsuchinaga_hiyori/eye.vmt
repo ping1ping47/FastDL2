@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\tsuchinaga_hiyori\Eye"
+	"$lightwarpTexture" "playerskins\tsuchinaga_hiyori\basewarp"
+	"$bumpmap" "playerskins\tsuchinaga_hiyori\normal"
+}

@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "playerskins\mafuyu\tf"
+    "$lightwarptexture"  "playerskins\mafuyu\lightwarp_anime_skin2"
+	"$bumpmap" "playerskins\mafuyu\oum"
+    "$nocull" 1        
+    "$nodecal" 1       
+	"$phong" "1"
+	//"$phongalbedotint" "1"                
+	"$halflambert" "1"
+	"$phongboost"	".04"                 
+	"$PhongExponent" "1.0"                
+	"$phongfresnelranges"	"[1 .1 .1]"
+	//"$rimlight" "1"
+    //"$rimlightexponent" "88"
+    //"$rimlightboost" "0.3"
+	"$alphatest" "1"
+    "$alphatestreference" "0.7"
+    "$allowalphatocoverage" "1"
+    //"$selfillum" "1"
+}

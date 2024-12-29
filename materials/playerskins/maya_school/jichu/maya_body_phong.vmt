@@ -1,0 +1,14 @@
+patch
+{
+	include	"materials/playerskins/maya_school/jichu/basic.vmt"
+	insert
+	{
+		
+	}
+	replace
+	{
+		//"$phongboost"	".4"
+		//$phongfresnelranges "[.5 .85 5]"
+		//"$PhongExponent" "10"
+	}
+}

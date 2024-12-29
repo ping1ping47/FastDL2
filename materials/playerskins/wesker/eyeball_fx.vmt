@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/wesker/eyeball_fx"
+
+	"$translucent" 1
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	"$envmapcontrast" 0
+	"$envmapsaturation" .5
+}

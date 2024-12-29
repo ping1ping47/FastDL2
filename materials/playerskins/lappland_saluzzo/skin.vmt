@@ -1,0 +1,12 @@
+patch
+{
+	include "materials\playerskins\lappland_saluzzo\shader.vmt"
+	insert
+	{
+		"$basetexture" "playerskins\lappland_saluzzo\skin"
+	}
+	replace
+	{
+		"$lightwarptexture" "playerskins\lappland_saluzzo\shader\skinwarp"
+	}
+}

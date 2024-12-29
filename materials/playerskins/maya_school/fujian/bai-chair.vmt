@@ -1,0 +1,26 @@
+VertexLitGeneric
+{
+$bumpmap 					playerskins/maya_school/fujian/bai-chair
+
+$phong 1
+$phongboost	0.04			//调整反射强度
+
+//以下两类按需启用///////////////////////////
+//皮肤毛发情况使用
+//$phongalbedotint 1
+//$phongexponenttexture 	mlui2023/l4d2/survivors/VRC/Sapphy/N008Queen/bill/phong_exp
+
+//其他情况使用
+$phongexponent 12		
+////////////////////////////////////////////
+
+$phongfresnelranges			1 .1 .1
+
+$nodecal 				1
+$nocull					1
+//$halflambert			1
+
+$rimlight               1
+$rimlightexponent       3
+$rimlightboost          4
+}

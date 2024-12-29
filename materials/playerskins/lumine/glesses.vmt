@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "playerskins/lumine/white"
+	"$translucent" "1"
+}

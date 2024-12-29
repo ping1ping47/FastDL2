@@ -1,0 +1,12 @@
+patch
+{
+	include "materials\playerskins\lappland_refined_horrormare\it.vmt"
+	insert
+	{
+		"$basetexture" "playerskins\lappland_refined_horrormare\skin"
+	}
+	replace
+	{
+		"$lightwarptexture" "playerskins\lappland_refined_horrormare\shader\skinwarp"
+	}
+}

@@ -1,0 +1,8 @@
+patch
+{
+	include	"materials/playerskins/lumine/final.vmt"
+	insert
+	{
+	"$basetexture" "playerskins/lumine/face"
+	}
+}

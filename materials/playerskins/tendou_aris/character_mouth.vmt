@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\tendou_aris\Mouth"
+	"$lightwarpTexture" "playerskins\tendou_aris\basewarp"
+	"$bumpmap" "models\azimuth\bluearchive\hoshino\normal"
+	"$alphatest" "1"
+
+}

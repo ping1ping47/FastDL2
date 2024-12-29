@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\sunaookami_shiroko\eye"
+	"$lightwarpTexture" "playerskins\sunaookami_shiroko\basewarp"
+	"$bumpmap" "playerskins\sunaookami_shiroko\normal"
+}

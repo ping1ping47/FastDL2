@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\shimoe_koharu\hair"
+	"$lightwarpTexture" "playerskins\shimoe_koharu\basewarp"
+	"$bumpmap" "playerskins\shimoe_koharu\hair_n"
+	$phongexponenttexture 	"playerskins\shimoe_koharu\hair_spec"
+	
+	$phong "1" 								//enable phong
+	$phongboost "5"								//nice high phongboost, toned down in the alpha channel of normalmap
+	$phongfresnelranges "[0.25 0.75 1.0]" 						//increase phong intensity at grazing angles
+	$phongalbedotint "1" 							//use albedotint from our exponent texture
+}

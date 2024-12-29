@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+	// FACE
+	"$basetexture" 		"playerskins/marie_rose_summer/marie_hair_pony_base"
+
+
+	"$phong"				"1"
+	"$phongboost"			"0.3"
+	"$phongexponent"		"24"
+	"$phongtint"			"[1 .65 .55]"
+	"$phongfresnelranges"	"[.5 .85 30]"
+
+	"$nodecal" "1"
+	
+	"$ambientocclusion" "0"
+	"$translucent" "1"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "playerskins\morizuki_suzumi\Eye"
+	"$lightwarpTexture" "playerskins\morizuki_suzumi\basewarp"
+	"$bumpmap" "playerskins\morizuki_suzumi\normal"
+}

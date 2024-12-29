@@ -1,0 +1,42 @@
+VertexLitGeneric
+{
+	$basetexture "playerskins/maya_tactical/zombie/Body_all"
+	//$bumpmap 				"playerskins/maya_tactical/zombie/Normal"
+	$lightwarptexture		"playerskins/maya_tactical/lightwarp/skinwarp"
+	
+	$phong 1
+	$phongboost	0.02			
+	//$PhongWarpTexture   	"Matchacheese/VRC/Lime/Twins/SPE/Lime_Body_OutlineMask"
+	
+	//以下两类按需启用///////////////////////////
+	//皮肤毛发情况使用
+	$phongalbedotint 1
+	//$phongexponenttexture 	"Matchacheese/VRC/Lime/Twins/lightwarp/phong_exp"
+
+
+	$phongfresnelranges			1 .1 .1
+
+	$nodecal 				1
+	$nocull					1
+	$halflambert			1
+
+
+	$rimlight               1
+	$rimlightexponent       3
+	$rimlightboost          4
+
+$detail "models\nmr_viewmodels\nmrih_shared\nmrih_blood_shared"
+$detailblendmode 2
+$detailblendfactor 1
+$detailscale 3.0
+$detailrotation 0.0
+
+	"Proxies"
+	{
+		"BloodyTexture"
+		{
+			"detailcount"	"3"
+			"source"		"player"
+		}
+	}
+}
