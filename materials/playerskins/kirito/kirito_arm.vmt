@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"	"playerskins\kirito\kirito_arm"
-	"$halflambert"	"1"
-	"$nocull"	"1"
-}

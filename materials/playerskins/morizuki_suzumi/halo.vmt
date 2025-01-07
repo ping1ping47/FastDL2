@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\morizuki_suzumi\halo"
-	"$lightwarpTexture" "playerskins\morizuki_suzumi\basewarp"
-	"$bumpmap" "playerskins\morizuki_suzumi\normal"
-	"$selfillum" "1"
-	"$nocull" "1"
-}

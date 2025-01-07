@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "playerskins/simon_henriksson/head_face_book"
-	"$bumpmap" "playerskins/simon_henriksson/flat"
-	"$nocull" 1
-        "$phong" 1
-        "$halflambert" 1
-}

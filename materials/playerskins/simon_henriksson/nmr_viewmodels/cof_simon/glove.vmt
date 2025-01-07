@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "playerskins/simon_henriksson/nmr_viewmodels/cof_simon/glove"
-$bumpmap "playerskins/simon_henriksson/nmr_viewmodels/nmrih_shared/nmrih_flat_normal"
-$halflambert "1"
-}

@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "playerskins/wesker/eyes"	
-
-//	"$additive" 1
-	"$model" 1
-	"$translucent" 1
-}

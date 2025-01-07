@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\misono_mika\hair"
-	"$lightwarpTexture" "playerskins\misono_mika\basewarp"
-	"$bumpmap" "playerskins\misono_mika\normal"
-}

@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "playerskins/wesker/hair_fix"
-
-	"$alphatest" 1
-	"$nocull" 1
-}

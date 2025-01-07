@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\tsuchinaga_hiyori\Mouth"
-	"$lightwarpTexture" "playerskins\tsuchinaga_hiyori\basewarp"
-	"$bumpmap" "playerskins\tsuchinaga_hiyori\normal"
-	"$alphatest" "1"
-}

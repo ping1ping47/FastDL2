@@ -1,8 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\sunaookami_shiroko\halo"
-	"$lightwarpTexture" "playerskins\sunaookami_shiroko\basewarp"
-	"$bumpmap" "playerskins\sunaookami_shiroko\normal"
-	"$selfillum" "1"
-	"$nocull" "1"
-}

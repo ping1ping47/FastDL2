@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\rikuhachima_aru\hair"
-	"$lightwarpTexture" "playerskins\rikuhachima_aru\basewarp"
-	"$bumpmap" "playerskins\rikuhachima_aru\normal"
-}

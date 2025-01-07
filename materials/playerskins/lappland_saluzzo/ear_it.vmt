@@ -1,8 +1,0 @@
-patch
-{
-	include "materials\playerskins\lappland_saluzzo\it.vmt"
-	insert
-	{
-		"$basetexture" "playerskins\lappland_saluzzo\ear"
-	}
-}

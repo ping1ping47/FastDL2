@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\urawa_hanako\Eye"
-	"$lightwarpTexture" "playerskins\urawa_hanako\basewarp"
-	"$bumpmap" "playerskins\urawa_hanako\normal"
-}

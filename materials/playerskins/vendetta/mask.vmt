@@ -1,8 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "playerskins/vendetta/mask"
-	"$phong" "1"
-	"$phongexponent" 100
-	"$phongboost"	"50"
-	"$phongfresnelranges"	"[0.05 0.5 1]"
-}

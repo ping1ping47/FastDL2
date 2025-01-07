@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\tendou_aris\Skirts_Outline"
-	"$lightwarpTexture" "playerskins\tendou_aris\basewarp"
-	"$bumpmap" "playerskins\tendou_aris\normal"
-}

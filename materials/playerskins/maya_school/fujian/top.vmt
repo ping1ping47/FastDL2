@@ -1,9 +1,0 @@
-Vertexlitgeneric
-{
-
-		"$basetexture" "playerskins/maya_school/fujian/top"
-		"$bumpmap" "playerskins/maya_school/fujian/top_Normal"
-                                "$lightwarptexture" "playerskins/maya_school/fujian/basewarp"
-                                "$nocull" 1
-                                "$nodecal" 1
-}

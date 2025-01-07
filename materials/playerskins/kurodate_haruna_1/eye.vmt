@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "playerskins\kurodate_haruna_1\Eye"
-	"$lightwarpTexture" "playerskins\kurodate_haruna_1\basewarp"
-	"$bumpmap" "playerskins\kurodate_haruna_1\normal"
-}
